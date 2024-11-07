@@ -1,2 +1,2 @@
 # devops
-A repository for the Blekinge Institute Devops project.
+A repository for the Blekinge Institute of Technology Devops project.
